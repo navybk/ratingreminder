@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Rating Reminder</string>
+    <string name="rating_ask_image_title">Bewerte diese App</string>
+    <string name="rating_ask_basic_title">Bewerte diese App</string>
+    <string name="rating_ask">Du magst %1s ?\nDann hinterlasse doch einen Kommentar und eine Bewertung im App-Store</string>
+    <string name="rating_image_ok">Jetzt bewerten</string>
+    <string name="rating_basic_ok">Jetzt bewerten</string>
+    <string name="rating_later">Später</string>
+    <string name="rating_no">Nein, Danke</string>
+    <string name="rating_store_not_found">Dieser App-Store ist für Dein Gerät nicht verfügbar</string>
+    <string name="rating_store_selection_title">Wähle den App-Store</string>
+    
+    <string name="amazon_store_title">Amazon App-Shop</string>
+    <string name="google_store_title">Google PlayStore</string>
+    <string name="kurio_store_title">Kurio Store</string>
+    <string name="yandex_store_title">Yandex Store</string>
+</resources>
